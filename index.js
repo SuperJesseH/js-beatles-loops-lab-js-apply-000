@@ -21,6 +21,7 @@ function iLoveTheBeatles(){
   var i = 0;
   do{
     strings[i] = "I love the Beatles!"
+    i++
   }
   while(i<20);
   return strings
